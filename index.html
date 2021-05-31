@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Not so great calculator">
+    	<meta name="keywords" content="calculator, bad, numbers, prime">
+
+		<title>The Broken Calculator</title>
+
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<h1>The Broken Calculator</h1>
+		<p>How many prime's under 101 can you get <br> with the broken calculator?</p>
+
+    <section class="calculator">
+		<ul>
+			<li id="clear">Clear</li>
+			<li id="add3">+3</li>
+			<li id="add9">+9</li>
+			<li id="sub2">-2</li>
+			<li id="sub5">-5</li>
+			<li id="times3">x3</li>
+		</ul>
+    </section>
+
+	<section class="output">
+    	<h2>Result: <span id="placeToPutResult"></span></h2>
+    </section>
+
+    <section class="prime">
+      <p>Number of primes reached: <span id="primeTotal"></span>/26</p>
+	</section>
+
+		<script type="text/javascript" src="js/main.js"></script>
+	</body>
+</html>
