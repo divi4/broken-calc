@@ -25,9 +25,9 @@ I also implemented a function that would randomly pick a color for the backgroun
 
 ## Lessons Learned:
 
-Learnt how to convert from the Java syntax to JavaScript.  
-Learnt how to randomise color on a given event.  
-Learnt how to add logic that can detect the 'light level' of a color on the page and change other colors accordingly.  
+-Learnt how to convert from the Java syntax to JavaScript.  
+-Learnt how to randomise color on a given event.  
+-Learnt how to add logic that can detect the 'light level' of a color on the page and change other colors accordingly.  
 
 ## My other projects:
 
